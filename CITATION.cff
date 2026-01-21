@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Li"
+    given-names: "Jie"
+    alias: "Agentcoomtoo"
+    role: "Chief Analyst"
+title: "AI-Agent: Enterprise-grade LLM Agent Architecture"
+version: 1.0.0
+date-released: 2026-01-21
+url: "https://github.com/iquzuxorakip19-del/AI-Agent"
+license: MIT
+keywords:
+  - "llm-agent"
+  - "python"
+  - "artificial-intelligence"
+  - "enterprise-architecture"
